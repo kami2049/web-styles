@@ -1,0 +1,25 @@
+body {
+	border: 1px solid black;
+}
+
+.header {
+	border: 2px solid black;
+	text-align: center;
+	padding: 5px
+}
+
+.nav {
+	border: 2px solid blue;
+	float: left;
+}
+
+.section {
+	border: 2px solid red;
+	padding: 21px;
+	margin: 21px;
+}
+
+.footer {
+	border: 2px solid black;
+	text-align: center;
+}
